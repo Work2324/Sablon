@@ -1,0 +1,2 @@
+class man():
+    pass
